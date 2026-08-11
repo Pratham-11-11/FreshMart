@@ -62,3 +62,4 @@ export default function ProductCard({ p, index = 0 }) {
     </motion.div>
   );
 }
+
